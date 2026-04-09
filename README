@@ -1,0 +1,21 @@
+Open-Source Recycled Plastic Pelletizer:
+A mechanical system designed to take shredded plastic waste and extrude it into uniform, high-quality pellets for 3D printing or injection molding.
+
+Features:
+- Open-Source: Fully documented CAD models and assembly instructions.
+
+- Modular Design: Easy maintenance and component swapping.
+
+- Adjustable: Variable speed and temperature control for different polymers.
+
+Repository Structure:
+- /CAD - 3D models (STEP, STL) and technical drawings
+
+- /Code - Microcontroller and firmware code
+
+- /Electronics - Wiring diagrams
+
+- BOM.csv - Bill of Materials with sourcing links
+
+Acknowledgements:
+Developed for the FAST Lab at Western University under Dr. Alessia Romani.

@@ -1,23 +1,39 @@
-Open-Source Recycled Plastic Pelletizer:
-A mechanical system designed to take shredded plastic waste and extrude it into uniform, high-quality pellets for 3D printing or injection molding.
+# Open-Source Recycled Plastic Pelletizer
 
-Features:
-- Open-Source: Fully documented CAD models and assembly instructions.
+A modular, open-source mechanical system designed to convert shredded plastic waste into uniform, high-quality pellets suitable for 3D printing and injection molding applications.
 
-- Modular Design: Easy maintenance and component swapping.
+## Overview
+This project is part of a larger closed-loop recycling workflow, enabling plastic waste to be processed into reusable material. The pelletizer focuses on consistency, reliability, and adaptability across different polymer types.
 
-- Adjustable: Variable speed and temperature control for different polymers.
+## Features
+- **Open Source**  
+  Fully documented CAD models, technical drawings, and assembly instructions for easy replication and modification.
 
-Repository Structure:
-- /CAD - 3D models (STEP, STL) and technical drawings
+- **Modular Design**  
+  Components are designed for quick maintenance, repair, and upgrades without rebuilding the entire system.
 
-- /Code - Microcontroller and firmware code
+- **Adjustable Processing**  
+  Supports variable speed and temperature control to accommodate a range of thermoplastics.
 
-- /Electronics - Wiring diagrams
+## Repository Structure
 
-- BOM.csv - Bill of Materials with sourcing links
+/CAD → 3D models (STEP, STL) and technical drawings
+/Code → Microcontroller firmware and control logic
+/Electronics → Wiring diagrams and circuit documentation
+/Media → Photos and videos of the system
+BOM.csv → Bill of Materials with sourcing links
 
-- /Media - Photos and Videos
 
-Acknowledgements:
-Developed for the FAST Lab at Western University under Dr. Alessia Romani.
+## Getting Started
+1. Review the **BOM.csv** to source required components  
+2. Follow the assembly instructions in `/CAD` and `/Electronics`  
+3. Upload firmware from `/Code` to the microcontroller  
+4. Calibrate speed and temperature based on your material  
+
+## Applications
+- Pellet-based 3D printing  
+- Injection molding  
+- Plastic recycling research and prototyping  
+
+## Acknowledgements
+Developed for the FAST Lab at Western University under the supervision of Dr. Alessia Romani.

@@ -1,0 +1,46 @@
+Amazon/Other,,,,,,
+#,Item Description,Units,Quantity,Unit Cost,Total Cost,Source
+1,NEMA 17 Stepper Motor,1,1,$9.49 ,$18.99 ,https://a.co/d/03t71NcC
+2,Stepper Motor Driver,1,1,$26.99 ,$26.99 ,https://a.co/d/00uMq6Vg
+3,DC Worm Gear Motor,1,1,$25.19 ,$25.19 ,https://a.co/d/04P9KnZs
+4,Router Bit,1,1,$18.99 ,$18.99 ,https://a.co/d/0j79bLEP
+5,3D printed parts,1,1,$1.60 ,$16.00 ,https://a.co/d/07XeKNPV
+6,Cardboard,1,2,$0.00 ,$0.00 ,N/A
+7,Scrap wood,1,4,$0.00 ,$0.00 ,N/A
+Total Unit Cost,$80.66 ,,,,,
+Total Cost,$90.16 ,,,,,
+Aliexpress,,,,,,
+#,Item Description,Units,Quantity,Unit Cost,Total Cost,Source
+8,Breadboard,1,1,$2.81 ,$2.81 ,https://www.aliexpress.com/item/1005007113555303.html
+9,RGB LED,1,1,$1.39 ,$1.39 ,https://www.aliexpress.com/item/32848453242.html
+10,Buzzer,1,1,$0.15 ,$0.15 ,https://www.aliexpress.com/item/1005006603437309.html
+11,PD Trigger,1,1,$0.78 ,$3.90 ,https://www.aliexpress.com/item/1005006179191517.html
+12,10K Resistor,1,1,$0.04 ,$3.59 ,https://www.aliexpress.com/item/1005006898731441.html
+13,Mosfet Trigger Switch Drive Module,1,1,$0.71 ,$0.71 ,https://www.aliexpress.com/item/1005007594739156.html
+14,Raspberry Pi Pico,1,1,$1.62 ,$1.62 ,https://www.aliexpress.com/item/1005008478649106.html
+15,Push Button,4,4,$0.56 ,$0.56 ,https://www.aliexpress.com/item/1005009581194951.html
+16,DC Motor Driver L298N,1,1,$3.91 ,$3.91 ,https://www.aliexpress.com/item/1005006208083845.html
+17,OLED Display Module,1,1,$1.62 ,$1.62 ,https://www.aliexpress.com/item/1005007571793140.html
+18,Buck convertor,1,1,$1.06 ,$10.58 ,https://www.aliexpress.com/item/1005008678729834.html
+19,Bowden Extruder,1,1,$2.99 ,$2.99 ,https://www.aliexpress.com/item/1005007789609358.html
+Total Unit Cost,$16.75 ,,,,,
+Total Cost,$20.58 ,,,,,
+,,,,,,
+Grand Total Unit Cost,$99.90 ,,,,,
+Grand Total Cost,$139.99 ,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

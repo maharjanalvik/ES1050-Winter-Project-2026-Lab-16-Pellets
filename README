@@ -21,7 +21,7 @@ This project is part of a larger closed-loop recycling workflow, enabling plasti
 /Code → Microcontroller firmware and control logic
 /Electronics → Wiring diagrams and circuit documentation
 /Media → Photos and videos of the system
-BOM.csv → Bill of Materials with sourcing links
+BOM.csv → Bill of Materials with sourcing link
 
 
 ## Getting Started

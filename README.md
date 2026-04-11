@@ -6,23 +6,18 @@ A modular, open-source mechanical system designed to convert shredded plastic wa
 This project is part of a larger closed-loop recycling workflow, enabling plastic waste to be processed into reusable material. The pelletizer focuses on consistency, reliability, and adaptability across different polymer types.
 
 ## Features
-- **Open Source**  
-  Fully documented CAD models, technical drawings, and assembly instructions for easy replication and modification.
+- **Open Source** Fully documented CAD models, technical drawings, and assembly instructions for easy replication and modification.
 
-- **Modular Design**  
-  Components are designed for quick maintenance, repair, and upgrades without rebuilding the entire system.
+- **Modular Design** Components are designed for quick maintenance, repair, and upgrades without rebuilding the entire system.
 
-- **Adjustable Processing**  
-  Supports variable speed and temperature control to accommodate a range of thermoplastics.
+- **Adjustable Processing** Supports variable speed and temperature control to accommodate a range of thermoplastics.
 
 ## Repository Structure
-
-/CAD → 3D models (STEP, STL) and technical drawings
-/Code → Microcontroller firmware and control logic
-/Electronics → Wiring diagrams and circuit documentation
-/Media → Photos and videos of the system
-BOM.csv → Bill of Materials with sourcing link
-
+- `/CAD` → 3D models (STEP, STL) and technical drawings
+- `/Code` → Microcontroller firmware and control logic
+- `/Electronics` → Wiring diagrams and circuit documentation
+- `/Media` → Photos and videos of the system
+- `BOM.csv` → Bill of Materials with sourcing link
 
 ## Getting Started
 1. Review the **BOM.csv** to source required components  

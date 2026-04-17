@@ -14,7 +14,7 @@ This project is part of a larger closed-loop recycling workflow, enabling plasti
 
 ## Repository Structure
 - `/CAD` → 3D models (STEP, STL) and technical drawings
-- `/Code` → Microcontroller firmware and control logic
+- `/PelletizerFirmware` → Microcontroller firmware and control logic
 - `/Electronics` → Wiring diagrams and circuit documentation
 - `/Media` → Photos and videos of the system
 - `BOM.csv` → Bill of Materials with sourcing link

@@ -31,4 +31,5 @@ This project is part of a larger closed-loop recycling workflow, enabling plasti
 - Plastic recycling research and prototyping  
 
 ## Acknowledgements
-Developed for the FAST Lab at Western University under the supervision of Dr. Alessia Romani.
+Developed for the FAST Lab at Western University under the supervision of Dr. Alessia Romani.  
+Design inspiration referenced from [Teaching Tech](https://teachingtechyt.github.io/).
